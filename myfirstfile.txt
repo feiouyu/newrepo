@@ -1,3 +1,5 @@
 This is the first line of my project.
 
 A second line is added by Atom.
+
+Edited on the new branch.
